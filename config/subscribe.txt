@@ -15,3 +15,14 @@ https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+http://xhztv.top/new.txt
+https://live.zbds.top/tv/iptv4.txt
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://4708.kstore.space/zhibo/tv.txt
+http://47.99.102.252/df.txt
+http://yuhuahx.com/dsj66.txt
+http://kxrj.site:55/lib/kx2024.txt
+https://ghp.ci/https://raw.githubusercontent.com/wagaga001/chenrui/main/CHENRUI_IPTV.txt
+https://git.acwing.com/chenrui/tvbox/-/raw/main/%E6%B5%8B%E8%AF%95IPTV
+https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+https://www.mytvsuper.com.mp/m3u/Live.m3u
